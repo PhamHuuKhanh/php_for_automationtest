@@ -1,0 +1,20 @@
+
+user: # Account infor
+  password: pass...
+  username: khanh...123
+
+run: # Setup default env to run test
+  env_default: dev
+  platform_default: android
+
+Device_Remi: # Device Android Remi for QC
+  version_android: '9'
+  name: 179998977d26
+
+Android_Dev: # Universal
+  appPackage: com.phdv.universal.sit
+  appActivity: com.phdv.universal.feature.main.MainActivity
+
+Android_Dev_JP: # Japan
+  appPackage: com.pizzahut.jp
+  appActivity: com.pizzahut.jp.view.splash.SplashActivity

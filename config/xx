@@ -1,0 +1,13 @@
+url: http://sample
+user:
+  username: auto...123
+  password: pass...
+
+devices:
+#  udid_iphone: b6d72edbd2708daec361c3a4ae9ca09cd130cdd0 # iPhone 8plus
+  udid_iphone: R58MC2NZQHA
+  udid_ipad: b23b82003e8bc516512f0b9298f3394dd1c1b247 # iPad
+
+
+
+uat_market_an.yaml
